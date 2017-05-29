@@ -1,5 +1,5 @@
 
-+![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
+![En construcción](https://plus.google.com/u/0/photos/photo/113828127959402830080/6425609187674660898?icm=false.png)
 ### Clases principales y sus características
 1. Muro
 - MuroE
