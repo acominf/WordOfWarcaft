@@ -2,7 +2,8 @@
 El principal objetivo es que las personas aprendan palabras en inglés mientas juegan.
 
 
-###Descripción del juego
+### Descripción del juego
+
 Es un juego arcade, en el cual se tiene que buscar las letras escondidas en los muros de color verde para completar
 la palabra que se encuentra en la parte de superior del escenario. Una vez que estés cerca de estos muros, en caso de
 que ese muro de color verde contenga una letra se volvera de color naranja.
