@@ -1,5 +1,9 @@
+### Objetivo del juego
+-Es un juego para personas que les interese aprender inglés mientras se divierte 
+El principal objetivo del juego es que mientras el jugador vaya encontrando las letras para completar 
+la palabra en inglés que aparece en la parte de arriba del juego corra del enemigo. Ahí mismo aparecen las vidas que tienes cuando éste te toca.
 
-![En construcción](https://plus.google.com/u/0/photos/photo/113828127959402830080/6425609187674660898?icm=false)
+
 ### Clases principales y sus características
 1. Muro
 - MuroE
