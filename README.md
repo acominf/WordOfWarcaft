@@ -1,9 +1,15 @@
 ### Objetivo del juego
-El principal objetivo del juego es que mientras el jugador vaya encontrando las letras para completar 
-la palabra en inglés que aparece en la parte de arriba del juego corra del enemigo. Ahí mismo aparecen las vidas que tienes cuando éste te toca.
+El principal objetivo es que las personas aprendan palabras en inglés mientas juegan.
 
-Este es un juego para personas que les interese aprender inglés mientras se divierte. 
 
+###Descripción del juego
+Es un juego arcade, en el cual se tiene que buscar las letras escondidas en los muros de color verde para completar
+la palabra que se encuentra en la parte de superior del escenario. Una vez que estés cerca de estos muros, en caso de
+que ese muro de color verde contenga una letra se volvera de color naranja.
+Una vez que completes la palabra pasaras al siguiente nivel. se cuenta con 3 niveles en el cual se aumentala dificultad
+añadiendo un enemigo al escenario.
+Éste juego cuenta con 50 palabras aleatorias.
+Cuentas con sólo tres vidas, Asi que ¡comience la diversión!.
 
 
 ### Clases principales y sus características
